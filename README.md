@@ -123,6 +123,7 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhoa2xiYWNpY3VnamFsZXhlMDMxb3B1M3Eza3MxanFjcWtnYXI3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q7UpJegIZjsk0/giphy.gif"  />
 </div>
+<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 
 ###
 
