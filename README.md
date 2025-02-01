@@ -1,4 +1,3 @@
-<br clear="both">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=osca16.osca16&left_color=red&right_color=green&left_text=My%20Profile%20Visitors"  />
 
@@ -158,5 +157,3 @@
 </div>
 <hr>
 <p align="center">©️2025 All Right Reserved @github/osca16(Osanda Lakruwan)</p>
-
-###
