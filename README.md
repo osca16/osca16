@@ -110,19 +110,14 @@
 </div>
 
 ###
-
-<br clear="both">
+<hr>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31zquj3lz6mk5n7hm5ey5h4o3uea">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zquj3lz6mk5n7hm5ey5h4o3uea&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/osca16/output/snake.svg" alt="Snake animation" />
-![Snake animation](https://raw.githubusercontent.com/osca16/output/snake.svg)
+<hr>
 
 ###
 
@@ -132,7 +127,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://stackoverflow.com/users/25126974/osanda-lakruwan?tab=profile" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
@@ -161,6 +156,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
 </div>
+<hr>
 <p align="center">©️2025 All Right Reserved @github/osca16(Osanda Lakruwan)</p>
 
 ###
