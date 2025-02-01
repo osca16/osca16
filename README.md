@@ -121,7 +121,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/osca16/osca16/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/osca16/output/snake.svg" alt="Snake animation" />
 
 ###
 
